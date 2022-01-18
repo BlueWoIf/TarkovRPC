@@ -16,9 +16,9 @@ namespace TarkovRP
     {
         public static DiscordRpcClient client;
 
+	//here goes the discord appid
         private static readonly string discordclientId = "931883249335152640";
 
-        //private static States lastrpstate;
         private static States lastrpstate = States.None;
 
         private static readonly string projectPath = Directory.GetCurrentDirectory();
