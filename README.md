@@ -18,7 +18,7 @@ If you don't have an IronOCR license, you can only use it inside Visual Studio.
 The screenshot function's coordinates are based on my 16:10 monitor on 1920x1200 resolution.
 
 
-The Discord Application's ID is at the top, the current has map names, and some other icons, like usec, bear, etc.
+The Discord Application's ID is at the top, the current has map names, and some other icons, like usec, bear, etc. (all of them are in DiscordAppAssets/)
 
 
 I left this project, because of the number of problems were increasing, and I couldn't fix them. (detailed below)
